@@ -1,0 +1,6 @@
+{
+  "name": "FutureCare",
+  "description": "SDG 5 Gender Equality platform connecting women to professional mentorship, career advancement workshops, and networking while integrating early childhood care and empowerment for ages 0 to 8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
